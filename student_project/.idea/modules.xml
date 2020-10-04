@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../student-management-systmen/.idea/student-management-systmen.iml" filepath="$PROJECT_DIR$/../../student-management-systmen/.idea/student-management-systmen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../student-management-systmen/student_project/.idea/student_project.iml" filepath="$PROJECT_DIR$/../../student-management-systmen/student_project/.idea/student_project.iml" />
+    </modules>
+  </component>
+</project>
